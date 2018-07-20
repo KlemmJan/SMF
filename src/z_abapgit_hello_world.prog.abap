@@ -8,3 +8,4 @@
 REPORT Z_ABAPGIT_HELLO_WORLD.
 
 Write 'Hello World'.
+Write 'Test mit Abapgit'.
